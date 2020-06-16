@@ -1,4 +1,9 @@
 {
+  "env": {
+    "es6": true,
+    "jest": true,
+    "browser": true
+  },
   "extends": ["important-stuff", "plugin:prettier/recommended"],
   "parser": "babel-eslint"
 }
